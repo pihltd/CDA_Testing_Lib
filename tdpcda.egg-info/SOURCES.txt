@@ -1,0 +1,9 @@
+README.md
+setup.py
+tdpcda/__init__.py
+tdpcda/tdpcda.py
+tdpcda.egg-info/PKG-INFO
+tdpcda.egg-info/SOURCES.txt
+tdpcda.egg-info/dependency_links.txt
+tdpcda.egg-info/requires.txt
+tdpcda.egg-info/top_level.txt
